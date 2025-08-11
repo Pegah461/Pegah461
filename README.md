@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hellooooooo!" alt="Typing SVG" /></a><!-- Subtitle -->
 </h1>
-<h3 align="center">📖 3rd Year Software Engineering Student @ The University of the South Pacific (USP)</h3>
+<h3 align="center">Software Engineering Student @ The University of the South Pacific (USP)</h3>
 
 ---
 
