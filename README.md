@@ -7,7 +7,6 @@
 ---
 
 ## 🌟 About Me  
-- 🧑‍💻I'm Perry Siola.
 - 🎓 Currently in my **3rd year** of Software Engineering at **USP**  
 - 💻 Passionate about **Web Development**, **Cybersecurity**, and **Problem Solving**  
 - 🌏 From the **Solomon Islands** 🇸🇧, aiming to create tech solutions that'll impact my community  
