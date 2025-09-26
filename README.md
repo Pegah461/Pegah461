@@ -1,7 +1,7 @@
 <!-- Animated Heading -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hey%2C+I'm+Perry!;Software+Engineering+Student;Open-Source+Contributor;Problem+Solver+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hey%2C+I'm+Perry!;Software+Engineering+Student;From+The+Solomon+Islands+🇸🇧" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -44,9 +44,6 @@
 ## 📊 GitHub Stats & Languages  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pegah461&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegah461&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
