@@ -10,7 +10,7 @@
 ## 📬 Connect with me  
 <p align="left">
 <a href="https://www.facebook.com/461.pegah/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/pegah__461/" target="blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/_pegah461/" target="blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="http://www.youtube.com/@pegah461" target="blank"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
