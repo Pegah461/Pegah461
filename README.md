@@ -1,12 +1,11 @@
 <!-- Animated Heading -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hey%2C+I'm+Pegah!;Software+Engineering+Student;Open-Source+Contributor;Problem+Solver+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hey%2C+I'm+Perry!;Software+Engineering+Student;Open-Source+Contributor;Problem+Solver+%26+Builder" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">Software Engineering Student At The University of the South Pacific (USP)</h3>
----
 
 ## 📬 Connect with me  
 <p align="left">
