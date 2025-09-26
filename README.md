@@ -1,7 +1,7 @@
 <!-- Animated Heading -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hey%2C+I'm+Perry!;Software+Engineering+Student;From+The+Solomon+Islands🇸🇧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=F75533&width=435&lines=Hey%2C+I'm+Perry!;Software+Engineering+Student;From+The+Solomon+Islands" alt="Typing SVG" />
   </a>
 </h1>
 
