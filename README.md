@@ -49,6 +49,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pegah461&show_icons=true&locale=en&layout=compact&theme=tokyonight_red" alt="Top Languages" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pegah461&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.6&count_weight=0.4)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pegah461&theme=tokyonight_red" alt="GitHub Streak" />
 </p>
