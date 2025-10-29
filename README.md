@@ -5,8 +5,6 @@
   </a>
 </h1>
 
-<h3 align="center">Software Engineering Student At The University of the South Pacific (USP)</h3>
-
 ---
 
 ## 🌐 Connect with Me  
@@ -37,13 +35,4 @@
   <img src="https://img.shields.io/badge/Metasploit-2F2F2F?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-
----
-
-## ⚙️ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pegah461&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pegah461&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-</p>
-
 ---
